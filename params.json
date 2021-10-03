@@ -1,0 +1,10 @@
+[
+	{
+		"ParameterKey": "KeyP",
+		"ParameterValue": "that-one"
+	},
+	{
+		"ParameterKey": "InstanceType",
+		"ParameterValue": "t2.micro"
+	}
+]
